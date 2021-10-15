@@ -39,6 +39,11 @@
 
 ### Latest tech blogposts
 <!-- BLOG-POST-LIST:START -->
+- [Win10 ImageViewer nervt](https://teilzeitaktivist.de/win10-imageviewer-nervt/)
+- [Ueli – Das Allround Windows Startmenü](https://teilzeitaktivist.de/allround-windows-startmenue/)
+- [Everything – Fix Dateien und Ordner finden](https://teilzeitaktivist.de/everything-fix-dateien-und-ordner-finden/)
+- [Unboxing Raspberry Pi Cluster Rack](https://teilzeitaktivist.de/unboxing-raspberry-pi-cluster-rack/)
+- [Windows Software auf Stand halten](https://teilzeitaktivist.de/windows-software-auf-stand-halten/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://stefan-wilhelm.info
