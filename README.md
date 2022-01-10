@@ -37,22 +37,5 @@
 
 ![Stefans's GitHub stats](https://github-readme-stats.vercel.app/api?username=stewil87&count_private=true&show_icons=true&theme=darcula)
 
-### Latest tech blogposts
-<!-- BLOG-POST-LIST:START -->
-- [Win10 ImageViewer nervt](https://teilzeitaktivist.de/win10-imageviewer-nervt/)
-- [Ueli – Das Allround Windows Startmenü](https://teilzeitaktivist.de/allround-windows-startmenue/)
-- [Everything – Fix Dateien und Ordner finden](https://teilzeitaktivist.de/everything-fix-dateien-und-ordner-finden/)
-- [Unboxing Raspberry Pi Cluster Rack](https://teilzeitaktivist.de/unboxing-raspberry-pi-cluster-rack/)
-- [Windows Software auf Stand halten](https://teilzeitaktivist.de/windows-software-auf-stand-halten/)
-<!-- BLOG-POST-LIST:END -->
-
-[website]: https://stefan-wilhelm.info
-[youtube]: https://www.youtube.com/c/StefanWilhelm
-[instagram]: https://www.instagram.com/zutiefstbeeindruckt
-[linkedin]: https://www.linkedin.com/in/stefan-wilhelm-webdev-leverkusen
-[codingplaylist]: https://www.youtube.com/playlist?list=PLZlyNzJn2430oKmOWrtIRvMVqS_9keN2J
-
----
-
 - Inspired by [codeSTACKr](https://github.com/codeSTACKr)
 - Get your own [stats card](https://github.com/anuraghazra/github-readme-stats)
