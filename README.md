@@ -26,8 +26,3 @@
 <br>
 
 ---
-
-![Stefans's GitHub stats](https://github-readme-stats.vercel.app/api?username=stewil87&count_private=true&show_icons=true&theme=darcula)
-
-- Inspired by [codeSTACKr](https://github.com/codeSTACKr)
-- Get your own [stats card](https://github.com/anuraghazra/github-readme-stats)
